@@ -1,0 +1,17 @@
+// jc --> justify-content
+
+h1{
+    font-family: Poppins;
+}
+
+.flex{
+    display: flex;
+}
+
+.jc-space-between{
+    justify-content: space-between;
+}
+
+.jc-space-around{
+    justify-content: space-around;
+}
